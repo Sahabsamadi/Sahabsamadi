@@ -17,7 +17,6 @@ My name is Sahab Samadi, and I am a passionate web designer, graphic designer, a
 **📚 Currently Learning:**
 ⚙️ Advanced JavaScript Frameworks: Exploring React.js and Vue.js.
 
-🛠 Backend Development: Building backend solutions for full-stack development.
 
 🛠️ Projects:
 
