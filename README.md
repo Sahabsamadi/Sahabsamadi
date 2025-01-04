@@ -1,6 +1,7 @@
 **👋 Sahab Samadi's GitHub**
 
-**🚀 About Me**
+**🚀 About Me:**
+
 My name is Sahab Samadi, and I am a passionate web designer, graphic designer, and frontend developer who loves to create modern, stylish, and user-friendly websites. I also have expertise in UI/UX design, blending creativity and functionality seamlessly.
 
 **💼 What I Do:**
