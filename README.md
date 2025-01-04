@@ -4,10 +4,15 @@
 My name is Sahab Samadi, and I am a passionate web designer, graphic designer, and frontend developer who loves to create modern, stylish, and user-friendly websites. I also have expertise in UI/UX design, blending creativity and functionality seamlessly.
 
 **💼 What I Do:**
+
 🌐 Web Design & Development: Engaging, modern, and responsive websites with clean code.
+
 🎨 Graphic Design: Eye-catching visuals for both online and print media.
+
 📱 UI/UX Design: Intelligent and impressive user experiences.
+
 💻 Tools & Technologies: HTML | CSS | JavaScript | UI/UX Design | Adobe Creative Suite | CorelDraw
+
 
 **📚 Currently Learning:**
 ⚙️ Advanced JavaScript Frameworks: Exploring React.js and Vue.js.
