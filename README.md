@@ -18,8 +18,9 @@ Explore my repositories for projects that combine creativity and technical exper
 **🤝 Let’s Collaborate:**
 Have a project idea in mind? Let’s collaborate and bring it to life!
 
-**📧 Email: sahabsamadi2000@gmail.com
-🌍 Portfolio: https://sahabsamadi.github.io/Sahabsamadi/**
+**📧 Email: sahabsamadi2000@gmail.com**
+
+**🌍 Portfolio: https://sahabsamadi.github.io/Sahabsamadi/**
 
 **📜 License:
 XXX**
