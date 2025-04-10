@@ -43,7 +43,7 @@ Here are some of my featured works:
 ## **📌 How to Use This Repository**  
 1. **Clone the repo:**  
    ```bash
-   git clone https://github.com/sahabsamadi/portfolio.git
+   git clone https://github.com/sahabsamadi/sahabsamadi.git
    ```
 2. **Open in browser:**  
    - Run `index.html` to view the portfolio.  
@@ -53,7 +53,7 @@ Let's collaborate! Reach out via:
 - **Email:** team2024.44@gmail.com.com  
 - **LinkedIn:** [sahabsamadi](#)  
 - **Instagram:** [@3.ahab](#)  
-- **Dribbble/Behance:** [Portfolio Links](#)  
+- **Dribbble/Behance:** [https://sahabsamadi.github.io/sahabsamadi/](#)  
 
 ---
 **© 2023 Sahab Samadi** | *Crafting Digital Experiences with Design & Code* 🚀  
