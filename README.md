@@ -43,7 +43,7 @@ Here are some of my featured works:
 ## **📌 How to Use This Repository**  
 1. **Clone the repo:**  
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/sahabsamadi/portfolio.git
    ```
 2. **Open in browser:**  
    - Run `index.html` to view the portfolio.  
